@@ -1,6 +1,6 @@
 # Today I learned
 
-small REACT fun application
+small Javascript fun application which a small Database which allows the user to add notes on what they learnt
 
 ## Technologies Used
 
@@ -10,9 +10,8 @@ small REACT fun application
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Supabase] (https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## License
 
